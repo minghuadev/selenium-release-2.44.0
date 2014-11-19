@@ -1,7 +1,14 @@
 
-ls -l 
+ls -lrt
 
  24972017 Nov 18 22:08 selenium-java-2.44.0.zip
  35169724 Nov 18 22:08 selenium-server-standalone-2.44.0.jar
-
+      120 Nov 18 22:09 notes
+   745454 Nov 19 08:34 selenium-ide-2.8.0.xpi
+    10696 Nov 19 08:39 pom-proj.tgz
+ 25540744 Nov 19 08:39 pom-dot-m2.tgz
+    90921 Nov 19 08:40 pom-cmd-result
+     1464 Nov 19 08:40 pom.xml
+      431 Nov 19 08:42 sha1-sums
+      599 Nov 19 08:43 sha256-sums
 
