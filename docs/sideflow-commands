@@ -1,0 +1,12 @@
+
+commands:
+
+    label | mylabel - creates a label called "mylabel" (a goto target)
+    goto | mylabel - goto "mylabel"
+    gotoLabel | mylabel - synonym for goto
+    gotoIf | expression - jump to specified label if expression is true
+    while | expression - loop while expression is true
+    endWhile - indicate the end of a while loop
+    push | value | arrayName - push value onto an array, creating array if necessary
+
+

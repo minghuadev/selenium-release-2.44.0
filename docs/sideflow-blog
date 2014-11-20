@@ -1,0 +1,35 @@
+
+http://51elliot.blogspot.ca/2008/02/selenium-ide-goto.html
+
+
+51 Elliot
+Selenium IDE Flow Control - Goto and While Loops
+==================================================
+
+Notes from Silicon Valley North
+Wednesday, February 13, 2008
+
+https://github.com/darrenderidder/sideflow
+
+
+This extension provides goto, gotoIf and while loop functionality 
+in Selenium IDE. 
+
+There is an excellent flow-control extension at wiki.openqa.org/display/SEL/flowControl 
+for the Selenium RC and TestRunner components, but it does not work 
+with Selenium IDE (the Firefox plugin) directly. This makes it difficult 
+to develop controlled test cases within Selenium IDE, and there are times 
+when the frame-based TestRunner cannot be used (such as when the website 
+under test employs a frame-buster script).
+
+I've ported the existing control-flow extension to work in the Selenium IDE 
+Firefox add-on. The image below shows a sample test case using goto, gotoIf 
+and a while loop, all running successfully in Selenium IDE.
+
+picture sideflow.png
+
+The file can be downloaded from Github and should be saved as "sideflow.js" 
+to your hard drive. Then the Options settings in Selenium IDE should set 
+the Selenium Core extensions to include the path of this file.
+
+

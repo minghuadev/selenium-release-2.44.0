@@ -1,0 +1,29 @@
+
+
+html: 
+
+  <input class="messageCheckbox" type="checkbox" value="3" name="mailId[]">
+  <input class="messageCheckbox" type="checkbox" value="1" name="mailId[]">
+
+find value:
+
+  var checkedValue = null; 
+  var inputElements = document.getElementsByClassName('messageCheckbox');
+  for(var i=0; inputElements[i]; ++i){
+      if(inputElements[i].checked){
+           checkedValue = inputElements[i].value;
+           break;
+      }
+  }
+
+
+operate:
+
+// Check operation
+document.getElementById("checkbox").checked = true;
+
+// Uncheck operation
+document.getElementById("checkbox").checked = false;
+
+
+

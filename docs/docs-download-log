@@ -1,0 +1,1339 @@
+--2014-11-19 20:18:49--  http://www.seleniumhq.org/docs/index.jsp
+Resolving www.seleniumhq.org (www.seleniumhq.org)... 74.125.25.121, 2607:f8b0:400e:c04::79
+Connecting to www.seleniumhq.org (www.seleniumhq.org)|74.125.25.121|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘docs/index.jsp’
+
+     0K .......... .......... ........                         1.10M=0.03s
+
+2014-11-19 20:18:49 (1.10 MB/s) - ‘docs/index.jsp’ saved [29106]
+
+Loading robots.txt; please ignore errors.
+--2014-11-19 20:18:49--  http://www.seleniumhq.org/robots.txt
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 0 [text/plain]
+Saving to: ‘robots.txt’
+
+     0K                                                        0.00 =0s
+
+2014-11-19 20:18:50 (0.00 B/s) - ‘robots.txt’ saved [0/0]
+
+--2014-11-19 20:18:50--  http://www.seleniumhq.org/docs/_static/pygments.css
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/css]
+Saving to: ‘docs/_static/pygments.css’
+
+     0K ....                                                    149M=0s
+
+2014-11-19 20:18:51 (149 MB/s) - ‘docs/_static/pygments.css’ saved [4196]
+
+--2014-11-19 20:18:51--  http://www.seleniumhq.org/docs/_static/jquery.treeview.css
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/css]
+Saving to: ‘docs/_static/jquery.treeview.css’
+
+     0K ..                                                     90.0M=0s
+
+2014-11-19 20:18:51 (90.0 MB/s) - ‘docs/_static/jquery.treeview.css’ saved [2510]
+
+--2014-11-19 20:18:51--  http://www.seleniumhq.org/docs/_static/docs.css
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/css]
+Saving to: ‘docs/_static/docs.css’
+
+     0K                                                        26.5M=0s
+
+2014-11-19 20:18:51 (26.5 MB/s) - ‘docs/_static/docs.css’ saved [683]
+
+--2014-11-19 20:18:51--  http://www.seleniumhq.org/docs/_static/jquery.js
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/x-javascript]
+Saving to: ‘docs/_static/jquery.js’
+
+     0K .......... .......... .......... .......... .......... 1.44M
+    50K .......... .......... .......... .......... ...        1.87M=0.06s
+
+2014-11-19 20:18:51 (1.62 MB/s) - ‘docs/_static/jquery.js’ saved [95786]
+
+--2014-11-19 20:18:51--  http://www.seleniumhq.org/docs/_static/underscore.js
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/x-javascript]
+Saving to: ‘docs/_static/underscore.js’
+
+     0K .......... .                                           64.0M=0s
+
+2014-11-19 20:18:51 (64.0 MB/s) - ‘docs/_static/underscore.js’ saved [12140]
+
+--2014-11-19 20:18:51--  http://www.seleniumhq.org/docs/_static/doctools.js
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/x-javascript]
+Saving to: ‘docs/_static/doctools.js’
+
+     0K .......                                                80.6M=0s
+
+2014-11-19 20:18:51 (80.6 MB/s) - ‘docs/_static/doctools.js’ saved [7398]
+
+--2014-11-19 20:18:51--  http://www.seleniumhq.org/docs/_static/selenium-favicon.ico
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/x-icon]
+Saving to: ‘docs/_static/selenium-favicon.ico’
+
+     0K .                                                      45.1M=0s
+
+2014-11-19 20:18:52 (45.1 MB/s) - ‘docs/_static/selenium-favicon.ico’ saved [1150]
+
+--2014-11-19 20:18:52--  http://www.seleniumhq.org/docs/00_Note_to-the-reader.jsp
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘docs/00_Note_to-the-reader.jsp’
+
+     0K .......... ..                                          2.90M=0.004s
+
+2014-11-19 20:18:52 (2.90 MB/s) - ‘docs/00_Note_to-the-reader.jsp’ saved [12880]
+
+--2014-11-19 20:18:52--  http://www.seleniumhq.org/docs/_static/code-snipplets.js
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/x-javascript]
+Saving to: ‘docs/_static/code-snipplets.js’
+
+     0K ....                                                    173M=0s
+
+2014-11-19 20:18:52 (173 MB/s) - ‘docs/_static/code-snipplets.js’ saved [4829]
+
+--2014-11-19 20:18:52--  http://www.seleniumhq.org/docs/_static/jquery.scrollTo-1.4.2-min.js
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/x-javascript]
+Saving to: ‘docs/_static/jquery.scrollTo-1.4.2-min.js’
+
+     0K ..                                                     1.19M=0.002s
+
+2014-11-19 20:18:52 (1.19 MB/s) - ‘docs/_static/jquery.scrollTo-1.4.2-min.js’ saved [2262]
+
+--2014-11-19 20:18:52--  http://www.seleniumhq.org/docs/_static/jquery.localscroll-1.2.7-min.js
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/x-javascript]
+Saving to: ‘docs/_static/jquery.localscroll-1.2.7-min.js’
+
+     0K .                                                      81.0M=0s
+
+2014-11-19 20:18:52 (81.0 MB/s) - ‘docs/_static/jquery.localscroll-1.2.7-min.js’ saved [1560]
+
+--2014-11-19 20:18:52--  http://www.seleniumhq.org/docs/_static/jquery.treeview.pack.js
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/x-javascript]
+Saving to: ‘docs/_static/jquery.treeview.pack.js’
+
+     0K ...                                                     129M=0s
+
+2014-11-19 20:18:52 (129 MB/s) - ‘docs/_static/jquery.treeview.pack.js’ saved [3390]
+
+--2014-11-19 20:18:52--  http://www.seleniumhq.org/docs/
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘docs/index.html’
+
+     0K .......... .......... ........                         3.90M=0.007s
+
+2014-11-19 20:18:53 (3.90 MB/s) - ‘docs/index.html’ saved [29106]
+
+--2014-11-19 20:18:53--  http://www.seleniumhq.org/docs/%5C%22%22
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+2014-11-19 20:18:53 ERROR 404: Not Found.
+
+--2014-11-19 20:18:53--  http://www.seleniumhq.org/docs/01_introducing_selenium.jsp
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘docs/01_introducing_selenium.jsp’
+
+     0K .......... .......... .......... ....                  21.6M=0.002s
+
+2014-11-19 20:18:53 (21.6 MB/s) - ‘docs/01_introducing_selenium.jsp’ saved [35545]
+
+--2014-11-19 20:18:53--  http://www.seleniumhq.org/docs/02_selenium_ide.jsp
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘docs/02_selenium_ide.jsp’
+
+     0K .......... .......... .......... .......... ..........  852K
+    50K .......... .......... .......... .......... ..........  475K
+   100K .......... .......... .......... ........              6.39M=0.2s
+
+2014-11-19 20:18:54 (814 KB/s) - ‘docs/02_selenium_ide.jsp’ saved [141540]
+
+--2014-11-19 20:18:54--  http://www.seleniumhq.org/docs/03_webdriver.jsp
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘docs/03_webdriver.jsp’
+
+     0K .......... .......... .......... .......... ..........  782K
+    50K .......... .......... .......... .......... .......... 1.59M
+   100K .......... .......... .......... .......... ..........  423K
+   150K .......... .......... ..                                958K=0.2s
+
+2014-11-19 20:18:54 (730 KB/s) - ‘docs/03_webdriver.jsp’ saved [176940]
+
+--2014-11-19 20:18:54--  http://www.seleniumhq.org/docs/04_webdriver_advanced.jsp
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘docs/04_webdriver_advanced.jsp’
+
+     0K .......... .......... .......... .......... .......... 1.95M
+    50K ..........                                              510K=0.05s
+
+2014-11-19 20:18:54 (1.30 MB/s) - ‘docs/04_webdriver_advanced.jsp’ saved [61707]
+
+--2014-11-19 20:18:54--  http://www.seleniumhq.org/docs/05_selenium_rc.jsp
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘docs/05_selenium_rc.jsp’
+
+     0K .......... .......... .......... .......... .......... 2.08M
+    50K .......... .......... .......... .......... .......... 1.71M
+   100K .......... .......... .......... .......... ....       1.96M=0.07s
+
+2014-11-19 20:18:54 (1.90 MB/s) - ‘docs/05_selenium_rc.jsp’ saved [148336]
+
+--2014-11-19 20:18:54--  http://www.seleniumhq.org/docs/06_test_design_considerations.jsp
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘docs/06_test_design_considerations.jsp’
+
+     0K .......... .......... .......... .......... .......... 1.62M
+    50K .......... ..........                                  4.09M=0.04s
+
+2014-11-19 20:18:54 (1.96 MB/s) - ‘docs/06_test_design_considerations.jsp’ saved [72183]
+
+--2014-11-19 20:18:54--  http://www.seleniumhq.org/docs/07_selenium_grid.jsp
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘docs/07_selenium_grid.jsp’
+
+     0K .......... .......... .......... .......               5.60M=0.007s
+
+2014-11-19 20:18:54 (5.60 MB/s) - ‘docs/07_selenium_grid.jsp’ saved [38775]
+
+--2014-11-19 20:18:54--  http://www.seleniumhq.org/docs/08_user_extensions.jsp
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘docs/08_user_extensions.jsp’
+
+     0K .......... .......... .......... .                     3.24M=0.01s
+
+2014-11-19 20:18:55 (3.24 MB/s) - ‘docs/08_user_extensions.jsp’ saved [32583]
+
+--2014-11-19 20:18:55--  http://www.seleniumhq.org/docs/appendix_cheat_sheet.jsp
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘docs/appendix_cheat_sheet.jsp’
+
+     0K .......... ..                                          92.8M=0s
+
+2014-11-19 20:18:55 (92.8 MB/s) - ‘docs/appendix_cheat_sheet.jsp’ saved [12825]
+
+--2014-11-19 20:18:55--  http://www.seleniumhq.org/docs/appendix_installing_android_driver.jsp
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘docs/appendix_installing_android_driver.jsp’
+
+     0K ..........                                              103K=0.1s
+
+2014-11-19 20:18:55 (103 KB/s) - ‘docs/appendix_installing_android_driver.jsp’ saved [10580]
+
+--2014-11-19 20:18:55--  http://www.seleniumhq.org/docs/appendix_installing_dotnet_driver_client.jsp
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘docs/appendix_installing_dotnet_driver_client.jsp’
+
+     0K .......... .                                           9.76M=0.001s
+
+2014-11-19 20:18:55 (9.76 MB/s) - ‘docs/appendix_installing_dotnet_driver_client.jsp’ saved [12201]
+
+--2014-11-19 20:18:55--  http://www.seleniumhq.org/docs/appendix_installing_java_driver_Sel20_via_maven.jsp
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘docs/appendix_installing_java_driver_Sel20_via_maven.jsp’
+
+     0K .......... .......                                     1.02M=0.02s
+
+2014-11-19 20:18:55 (1.02 MB/s) - ‘docs/appendix_installing_java_driver_Sel20_via_maven.jsp’ saved [18259]
+
+--2014-11-19 20:18:55--  http://www.seleniumhq.org/docs/appendix_installing_java_driver_client.jsp
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘docs/appendix_installing_java_driver_client.jsp’
+
+     0K .......... .......                                     64.0M=0s
+
+2014-11-19 20:18:55 (64.0 MB/s) - ‘docs/appendix_installing_java_driver_client.jsp’ saved [17538]
+
+--2014-11-19 20:18:55--  http://www.seleniumhq.org/docs/appendix_installing_python_driver_client.jsp
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘docs/appendix_installing_python_driver_client.jsp’
+
+     0K .......... ...                                         2.13M=0.006s
+
+2014-11-19 20:18:55 (2.13 MB/s) - ‘docs/appendix_installing_python_driver_client.jsp’ saved [13983]
+
+--2014-11-19 20:18:55--  http://www.seleniumhq.org/docs/appendix_locating_techniques.jsp
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘docs/appendix_locating_techniques.jsp’
+
+     0K .......... ....                                        2.34M=0.006s
+
+2014-11-19 20:18:55 (2.34 MB/s) - ‘docs/appendix_locating_techniques.jsp’ saved [15075]
+
+--2014-11-19 20:18:55--  http://www.seleniumhq.org/docs/appendix_migrating_from_rc_to_webdriver.jsp
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘docs/appendix_migrating_from_rc_to_webdriver.jsp’
+
+     0K .......... .......... .........                        1.48M=0.02s
+
+2014-11-19 20:18:55 (1.48 MB/s) - ‘docs/appendix_migrating_from_rc_to_webdriver.jsp’ saved [30013]
+
+--2014-11-19 20:18:55--  http://www.seleniumhq.org/docs/_static/treeview-default.gif
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1222 (1.2K) [image/gif]
+Saving to: ‘docs/_static/treeview-default.gif’
+
+     0K .                                                     100%  108M=0s
+
+2014-11-19 20:18:56 (108 MB/s) - ‘docs/_static/treeview-default.gif’ saved [1222/1222]
+
+--2014-11-19 20:18:56--  http://www.seleniumhq.org/docs/_static/treeview-default-line.gif
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1993 (1.9K) [image/gif]
+Saving to: ‘docs/_static/treeview-default-line.gif’
+
+     0K .                                                     100% 3.71M=0.001s
+
+2014-11-19 20:18:56 (3.71 MB/s) - ‘docs/_static/treeview-default-line.gif’ saved [1993/1993]
+
+--2014-11-19 20:18:56--  http://www.seleniumhq.org/docs/_static/treeview-red-line.gif
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+2014-11-19 20:18:56 ERROR 404: Not Found.
+
+--2014-11-19 20:18:56--  http://www.seleniumhq.org/docs/_static/treeview-red.gif
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+2014-11-19 20:18:56 ERROR 404: Not Found.
+
+--2014-11-19 20:18:56--  http://www.seleniumhq.org/docs/_static/treeview-black-line.gif
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+2014-11-19 20:18:56 ERROR 404: Not Found.
+
+--2014-11-19 20:18:56--  http://www.seleniumhq.org/docs/_static/treeview-black.gif
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+2014-11-19 20:18:56 ERROR 404: Not Found.
+
+--2014-11-19 20:18:56--  http://www.seleniumhq.org/docs/_static/treeview-gray-line.gif
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+2014-11-19 20:18:56 ERROR 404: Not Found.
+
+--2014-11-19 20:18:56--  http://www.seleniumhq.org/docs/_static/treeview-gray.gif
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+2014-11-19 20:18:56 ERROR 404: Not Found.
+
+--2014-11-19 20:18:56--  http://www.seleniumhq.org/docs/_static/treeview-famfamfam-line.gif
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+2014-11-19 20:18:56 ERROR 404: Not Found.
+
+--2014-11-19 20:18:56--  http://www.seleniumhq.org/docs/_static/treeview-famfamfam.gif
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+2014-11-19 20:18:56 ERROR 404: Not Found.
+
+--2014-11-19 20:18:56--  http://www.seleniumhq.org/docs/_static/folder.gif
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+2014-11-19 20:18:57 ERROR 404: Not Found.
+
+--2014-11-19 20:18:57--  http://www.seleniumhq.org/docs/_static/folder-closed.gif
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+2014-11-19 20:18:57 ERROR 404: Not Found.
+
+--2014-11-19 20:18:57--  http://www.seleniumhq.org/docs/_static/file.gif
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+2014-11-19 20:18:57 ERROR 404: Not Found.
+
+--2014-11-19 20:18:57--  http://www.seleniumhq.org/docs/_images/chapt3_img01_IDE_Installation.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt3_img01_IDE_Installation.png’
+
+     0K .......... .......... .......... .......... .......... 1.08M
+    50K .......... .......... .......... .......... ..........  765K
+   100K .......... .......... ..                               1.04M=0.1s
+
+2014-11-19 20:18:57 (930 KB/s) - ‘docs/_images/chapt3_img01_IDE_Installation.png’ saved [125411]
+
+--2014-11-19 20:18:57--  http://www.seleniumhq.org/docs/_images/chapt3_img02_IDE_Installation.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt3_img02_IDE_Installation.png’
+
+     0K .......... .......... .......... .......... .......... 97.2K
+    50K ...                                                     152K=0.5s
+
+2014-11-19 20:18:58 (99.9 KB/s) - ‘docs/_images/chapt3_img02_IDE_Installation.png’ saved [55212]
+
+--2014-11-19 20:18:58--  http://www.seleniumhq.org/docs/_images/chapt3_img03_IDE_Installation.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt3_img03_IDE_Installation.png’
+
+     0K .......... .......... .......... .......... ..........  221K
+    50K .......                                                 585K=0.2s
+
+2014-11-19 20:18:58 (241 KB/s) - ‘docs/_images/chapt3_img03_IDE_Installation.png’ saved [59268]
+
+--2014-11-19 20:18:58--  http://www.seleniumhq.org/docs/_images/chapt3_img04_IDE_Installation.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt3_img04_IDE_Installation.png’
+
+     0K .......... .......... .......... .......... ..........  733K
+    50K .......... .......... .......... .......... .....      1.20M=0.1s
+
+2014-11-19 20:18:58 (908 KB/s) - ‘docs/_images/chapt3_img04_IDE_Installation.png’ saved [97477]
+
+--2014-11-19 20:18:58--  http://www.seleniumhq.org/docs/_images/chapt3_img05_IDE_open.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt3_img05_IDE_open.png’
+
+     0K .......... .......... .......... .......... ........   1.48M=0.03s
+
+2014-11-19 20:18:58 (1.48 MB/s) - ‘docs/_images/chapt3_img05_IDE_open.png’ saved [49166]
+
+--2014-11-19 20:18:58--  http://www.seleniumhq.org/docs/_images/chapt3_img06_IDE_features.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt3_img06_IDE_features.png’
+
+     0K ....                                                    218M=0s
+
+2014-11-19 20:18:59 (218 MB/s) - ‘docs/_images/chapt3_img06_IDE_features.png’ saved [4454]
+
+--2014-11-19 20:18:59--  http://www.seleniumhq.org/docs/_images/chapt3_img07_Speed_Control.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt3_img07_Speed_Control.png’
+
+     0K .                                                      70.8M=0s
+
+2014-11-19 20:18:59 (70.8 MB/s) - ‘docs/_images/chapt3_img07_Speed_Control.png’ saved [1366]
+
+--2014-11-19 20:18:59--  http://www.seleniumhq.org/docs/_images/chapt3_img08_Run_All.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt3_img08_Run_All.png’
+
+     0K .                                                      57.9M=0s
+
+2014-11-19 20:18:59 (57.9 MB/s) - ‘docs/_images/chapt3_img08_Run_All.png’ saved [1031]
+
+--2014-11-19 20:18:59--  http://www.seleniumhq.org/docs/_images/chapt3_img09_Run.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt3_img09_Run.png’
+
+     0K .                                                      55.2M=0s
+
+2014-11-19 20:18:59 (55.2 MB/s) - ‘docs/_images/chapt3_img09_Run.png’ saved [1033]
+
+--2014-11-19 20:18:59--  http://www.seleniumhq.org/docs/_images/chapt3_img10_Pause.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt3_img10_Pause.png’
+
+     0K                                                        23.1M=0s
+
+2014-11-19 20:18:59 (23.1 MB/s) - ‘docs/_images/chapt3_img10_Pause.png’ saved [616]
+
+--2014-11-19 20:18:59--  http://www.seleniumhq.org/docs/_images/chapt3_img11_Resume.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt3_img11_Resume.png’
+
+     0K                                                        30.4M=0s
+
+2014-11-19 20:19:00 (30.4 MB/s) - ‘docs/_images/chapt3_img11_Resume.png’ saved [746]
+
+--2014-11-19 20:19:00--  http://www.seleniumhq.org/docs/_images/chapt3_img12_Step.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt3_img12_Step.png’
+
+     0K                                                        32.2M=0s
+
+2014-11-19 20:19:00 (32.2 MB/s) - ‘docs/_images/chapt3_img12_Step.png’ saved [829]
+
+--2014-11-19 20:19:00--  http://www.seleniumhq.org/docs/_images/chapt3_img13_TestRunner_Mode.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt3_img13_TestRunner_Mode.png’
+
+     0K                                                        27.7M=0s
+
+2014-11-19 20:19:00 (27.7 MB/s) - ‘docs/_images/chapt3_img13_TestRunner_Mode.png’ saved [707]
+
+--2014-11-19 20:19:00--  http://www.seleniumhq.org/docs/_images/chapt3_img14_Apply_Rollup_Rules.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt3_img14_Apply_Rollup_Rules.png’
+
+     0K                                                        37.5M=0s
+
+2014-11-19 20:19:00 (37.5 MB/s) - ‘docs/_images/chapt3_img14_Apply_Rollup_Rules.png’ saved [974]
+
+--2014-11-19 20:19:00--  http://www.seleniumhq.org/docs/_images/chapt3_img15_Record.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt3_img15_Record.png’
+
+     0K                                                        35.1M=0s
+
+2014-11-19 20:19:00 (35.1 MB/s) - ‘docs/_images/chapt3_img15_Record.png’ saved [913]
+
+--2014-11-19 20:19:00--  http://www.seleniumhq.org/docs/_images/chapt3_img16_Table_Format.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt3_img16_Table_Format.png’
+
+     0K .......... .                                            565K=0.02s
+
+2014-11-19 20:19:03 (565 KB/s) - ‘docs/_images/chapt3_img16_Table_Format.png’ saved [11285]
+
+--2014-11-19 20:19:03--  http://www.seleniumhq.org/docs/_images/chapt3_img17_Entry_Fields.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt3_img17_Entry_Fields.png’
+
+     0K .......                                                 282K=0.03s
+
+2014-11-19 20:19:03 (282 KB/s) - ‘docs/_images/chapt3_img17_Entry_Fields.png’ saved [7482]
+
+--2014-11-19 20:19:03--  http://www.seleniumhq.org/docs/_images/chapt3_img18_Bottom_Box.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt3_img18_Bottom_Box.png’
+
+     0K .......... ....                                         448K=0.03s
+
+2014-11-19 20:19:04 (448 KB/s) - ‘docs/_images/chapt3_img18_Bottom_Box.png’ saved [15347]
+
+--2014-11-19 20:19:04--  http://www.seleniumhq.org/docs/_images/chapt3_img19_Bottom_Box_Ref.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt3_img19_Bottom_Box_Ref.png’
+
+     0K .......... .....                                        251K=0.06s
+
+2014-11-19 20:19:04 (251 KB/s) - ‘docs/_images/chapt3_img19_Bottom_Box_Ref.png’ saved [15715]
+
+--2014-11-19 20:19:04--  http://www.seleniumhq.org/docs/_images/chapt3_img21_BaseURL_prod.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt3_img21_BaseURL_prod.png’
+
+     0K .......... .......... .......... .......... .           357K=0.1s
+
+2014-11-19 20:19:04 (357 KB/s) - ‘docs/_images/chapt3_img21_BaseURL_prod.png’ saved [42346]
+
+--2014-11-19 20:19:04--  http://www.seleniumhq.org/docs/_images/chapt3_img22_BaseURL_beta.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt3_img22_BaseURL_beta.png’
+
+     0K .......... .......... .......... .......... .           609K=0.07s
+
+2014-11-19 20:19:04 (609 KB/s) - ‘docs/_images/chapt3_img22_BaseURL_beta.png’ saved [42420]
+
+--2014-11-19 20:19:04--  http://www.seleniumhq.org/docs/cn/04_selenese_commands.jsp
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘docs/cn/04_selenese_commands.jsp’
+
+     0K .......... .......... .......... .......... ..........  402K
+    50K .......... .                                            258K=0.2s
+
+2014-11-19 20:19:05 (364 KB/s) - ‘docs/cn/04_selenese_commands.jsp’ saved [62865]
+
+--2014-11-19 20:19:05--  http://www.seleniumhq.org/docs/_images/chapt3_img23_IDE_Locator_Assistance.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt3_img23_IDE_Locator_Assistance.png’
+
+     0K .......... .......... .......... .......... ..........  665K
+    50K .......... .......... .                                1.07M=0.09s
+
+2014-11-19 20:19:08 (754 KB/s) - ‘docs/_images/chapt3_img23_IDE_Locator_Assistance.png’ saved [73106]
+
+--2014-11-19 20:19:08--  http://www.seleniumhq.org/docs/_images/chapt3_img32_Extensions_install.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt3_img32_Extensions_install.png’
+
+     0K .......... .......... .......... .........             1.43M=0.03s
+
+2014-11-19 20:19:08 (1.43 MB/s) - ‘docs/_images/chapt3_img32_Extensions_install.png’ saved [40464]
+
+--2014-11-19 20:19:08--  http://www.seleniumhq.org/docs/cn/05_selenium_rc.jsp
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘docs/cn/05_selenium_rc.jsp’
+
+     0K .......... .......... .......... .......... .......... 1.90M
+    50K .......... .......... .......... .......... .......... 2.05M
+   100K .......... .......... ..                               5.79M=0.05s
+
+2014-11-19 20:19:08 (2.25 MB/s) - ‘docs/cn/05_selenium_rc.jsp’ saved [125316]
+
+--2014-11-19 20:19:08--  http://www.seleniumhq.org/docs/_images/chapt3_img28_Trouble_timing.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt3_img28_Trouble_timing.png’
+
+     0K .......... .......                                     7.96M=0.002s
+
+2014-11-19 20:19:08 (7.96 MB/s) - ‘docs/_images/chapt3_img28_Trouble_timing.png’ saved [17518]
+
+--2014-11-19 20:19:08--  http://www.seleniumhq.org/docs/_images/chapt3_img29_Trouble_param.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt3_img29_Trouble_param.png’
+
+     0K ..........                                             51.3M=0s
+
+2014-11-19 20:19:08 (51.3 MB/s) - ‘docs/_images/chapt3_img29_Trouble_param.png’ saved [10579]
+
+--2014-11-19 20:19:08--  http://www.seleniumhq.org/docs/_images/chapt3_img27_Trouble_extension.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt3_img27_Trouble_extension.png’
+
+     0K .......... ....                                        1.55M=0.009s
+
+2014-11-19 20:19:32 (1.55 MB/s) - ‘docs/_images/chapt3_img27_Trouble_extension.png’ saved [14473]
+
+--2014-11-19 20:19:32--  http://www.seleniumhq.org/docs/_images/chapt5_img01_Architecture_Diagram_Simple.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_img01_Architecture_Diagram_Simple.png’
+
+     0K .......... .......... .......... .......... .......... 1.15M
+    50K ...                                                     683K=0.05s
+
+2014-11-19 20:19:32 (1.10 MB/s) - ‘docs/_images/chapt5_img01_Architecture_Diagram_Simple.png’ saved [54620]
+
+--2014-11-19 20:19:32--  http://www.seleniumhq.org/docs/_images/chapt5_TestNGxsltReport.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_TestNGxsltReport.png’
+
+     0K .......... .......... .......... ...                   3.03M=0.01s
+
+2014-11-19 20:19:32 (3.03 MB/s) - ‘docs/_images/chapt5_TestNGxsltReport.png’ saved [33869]
+
+--2014-11-19 20:19:32--  http://www.seleniumhq.org/docs/_images/chapt5_img26_single_window_mode.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_img26_single_window_mode.png’
+
+     0K .......... .......... .......... .......... .......... 2.21M
+    50K .......... .......... .......... .......... .......... 1.56M
+   100K .......... .......... ....                             1.43M=0.07s
+
+2014-11-19 20:19:32 (1.73 MB/s) - ‘docs/_images/chapt5_img26_single_window_mode.png’ saved [127864]
+
+--2014-11-19 20:19:32--  http://www.seleniumhq.org/docs/_images/chapt5_img27_multi_window_mode.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_img27_multi_window_mode.png’
+
+     0K .......... .......... .......... .......... .......... 1.11M
+    50K .......... ...                                         2.15M=0.05s
+
+2014-11-19 20:19:32 (1.24 MB/s) - ‘docs/_images/chapt5_img27_multi_window_mode.png’ saved [65391]
+
+--2014-11-19 20:19:32--  http://www.seleniumhq.org/docs/_images/chapt5_img02_Architecture_Diagram_1.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_img02_Architecture_Diagram_1.png’
+
+     0K .......... .......... .......... .......... .......... 1.13M
+    50K .......... .......... .......... ..                    2.88M=0.05s
+
+2014-11-19 20:19:32 (1.49 MB/s) - ‘docs/_images/chapt5_img02_Architecture_Diagram_1.png’ saved [84219]
+
+--2014-11-19 20:19:32--  http://www.seleniumhq.org/docs/_images/chapt5_img02_Architecture_Diagram_2.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_img02_Architecture_Diagram_2.png’
+
+     0K .......... .......... .......... .......... ..........  538K
+    50K .......... .......... ..........                       2.28M=0.1s
+
+2014-11-19 20:19:33 (758 KB/s) - ‘docs/_images/chapt5_img02_Architecture_Diagram_2.png’ saved [82108]
+
+--2014-11-19 20:19:33--  http://www.seleniumhq.org/docs/_images/chapt5_img01_Launch_VisualStudio.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_img01_Launch_VisualStudio.png’
+
+     0K .......... .......... ........                         4.56M=0.006s
+
+2014-11-19 20:19:33 (4.56 MB/s) - ‘docs/_images/chapt5_img01_Launch_VisualStudio.png’ saved [29395]
+
+--2014-11-19 20:19:33--  http://www.seleniumhq.org/docs/_images/chapt5_img02_CreateProject.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_img02_CreateProject.png’
+
+     0K .......... .......... ..........                       10.5M=0.003s
+
+2014-11-19 20:19:33 (10.5 MB/s) - ‘docs/_images/chapt5_img02_CreateProject.png’ saved [30918]
+
+--2014-11-19 20:19:33--  http://www.seleniumhq.org/docs/_images/chapt5_img03_TestClassFile.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_img03_TestClassFile.png’
+
+     0K .......... .......... .......... .......               39.9M=0.001s
+
+2014-11-19 20:19:33 (39.9 MB/s) - ‘docs/_images/chapt5_img03_TestClassFile.png’ saved [38142]
+
+--2014-11-19 20:19:33--  http://www.seleniumhq.org/docs/_images/chapt5_img04_AddReference.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_img04_AddReference.png’
+
+     0K .......... ......                                       617K=0.03s
+
+2014-11-19 20:19:33 (617 KB/s) - ‘docs/_images/chapt5_img04_AddReference.png’ saved [16788]
+
+--2014-11-19 20:19:33--  http://www.seleniumhq.org/docs/_images/chapt5_img05_AddDlls.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_img05_AddDlls.png’
+
+     0K .......... .......... .                                3.74M=0.005s
+
+2014-11-19 20:19:34 (3.74 MB/s) - ‘docs/_images/chapt5_img05_AddDlls.png’ saved [21559]
+
+--2014-11-19 20:19:34--  http://www.seleniumhq.org/docs/_images/Appendix_Sel20_Java_Img01_EntryPage.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/Appendix_Sel20_Java_Img01_EntryPage.png’
+
+     0K .......... .......... .......... .......... ..........  866K
+    50K .......... .......... .......... .......... .......... 1.36M
+   100K .......... .......... .......... .......... .......... 1.15M
+   150K .......... .......... .......... .......... .......... 1.08M
+   200K .......... .                                            966K=0.2s
+
+2014-11-19 20:19:34 (1.07 MB/s) - ‘docs/_images/Appendix_Sel20_Java_Img01_EntryPage.png’ saved [216890]
+
+--2014-11-19 20:19:34--  http://www.seleniumhq.org/docs/_images/Appendix_Sel20_Java_Img02_ImportProject.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/Appendix_Sel20_Java_Img02_ImportProject.png’
+
+     0K .......... .......... .......... .......... .......... 1.11M
+    50K .......... .......... .......... .......... .......... 1.08M
+   100K .......... .........                                   2.19M=0.1s
+
+2014-11-19 20:19:34 (1.19 MB/s) - ‘docs/_images/Appendix_Sel20_Java_Img02_ImportProject.png’ saved [122721]
+
+--2014-11-19 20:19:34--  http://www.seleniumhq.org/docs/_images/Appendix_Sel20_Java_Img03_SelectMaven.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/Appendix_Sel20_Java_Img03_SelectMaven.png’
+
+     0K .......... .......... .......... .......... .......... 1.09M
+    50K .......... .......... .......... .......... ........    948K=0.1s
+
+2014-11-19 20:19:34 (1.00 MB/s) - ‘docs/_images/Appendix_Sel20_Java_Img03_SelectMaven.png’ saved [100887]
+
+--2014-11-19 20:19:34--  http://www.seleniumhq.org/docs/_images/Appendix_Sel20_Java_Img04_RootDirAndProjOptions.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/Appendix_Sel20_Java_Img04_RootDirAndProjOptions.png’
+
+     0K .......... .......... .......... .......... .......... 1.08M
+    50K .......... .......... .......... .......... ..........  906K
+   100K .......... .....                                       1.59M=0.1s
+
+2014-11-19 20:19:35 (1.03 MB/s) - ‘docs/_images/Appendix_Sel20_Java_Img04_RootDirAndProjOptions.png’ saved [118183]
+
+--2014-11-19 20:19:35--  http://www.seleniumhq.org/docs/_images/Appendix_Sel20_Java_Img04a_SetRootFolder.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/Appendix_Sel20_Java_Img04a_SetRootFolder.png’
+
+     0K .......... .......... .......... .......... .......... 1.14M
+    50K .......... .......... .......... ...                   1.02M=0.08s
+
+2014-11-19 20:19:35 (1.09 MB/s) - ‘docs/_images/Appendix_Sel20_Java_Img04a_SetRootFolder.png’ saved [85806]
+
+--2014-11-19 20:19:35--  http://www.seleniumhq.org/docs/_images/Appendix_Sel20_Java_Img05_RootFolderSet.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/Appendix_Sel20_Java_Img05_RootFolderSet.png’
+
+     0K .......... .......... .......... .......... .......... 1.10M
+    50K .......... .......... .......... .......... .......... 1.06M
+   100K .......... ......                                      1.31M=0.1s
+
+2014-11-19 20:19:35 (1.11 MB/s) - ‘docs/_images/Appendix_Sel20_Java_Img05_RootFolderSet.png’ saved [119498]
+
+--2014-11-19 20:19:35--  http://www.seleniumhq.org/docs/_images/Appendix_Sel20_Java_Img06_SelectTheMavenProject.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/Appendix_Sel20_Java_Img06_SelectTheMavenProject.png’
+
+     0K .......... .......... .......... .......... .......... 1.19M
+    50K .......... .......... .......... .......... .......... 1018K
+   100K .....                                                  2.36M=0.09s
+
+2014-11-19 20:19:36 (1.11 MB/s) - ‘docs/_images/Appendix_Sel20_Java_Img06_SelectTheMavenProject.png’ saved [107996]
+
+--2014-11-19 20:19:36--  http://www.seleniumhq.org/docs/_images/Appendix_Sel20_Java_Img07_ProjectName.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/Appendix_Sel20_Java_Img07_ProjectName.png’
+
+     0K .......... .......... .......... .......... .......... 1.17M
+    50K .......... .......... .......... .......... ..........  871K
+   100K .........                                              1.19M=0.1s
+
+2014-11-19 20:19:36 (1.00 MB/s) - ‘docs/_images/Appendix_Sel20_Java_Img07_ProjectName.png’ saved [112425]
+
+--2014-11-19 20:19:36--  http://www.seleniumhq.org/docs/_images/Appendix_Sel20_Java_Img08_ProjectImported.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/Appendix_Sel20_Java_Img08_ProjectImported.png’
+
+     0K .......... .......... .......... .......... .......... 1.14M
+    50K .......... .......... .......... .......... .........   893K=0.1s
+
+2014-11-19 20:19:37 (1013 KB/s) - ‘docs/_images/Appendix_Sel20_Java_Img08_ProjectImported.png’ saved [101785]
+
+--2014-11-19 20:19:37--  http://www.seleniumhq.org/docs/_images/Appendix_Sel20_Java_Img09_Libraries1.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/Appendix_Sel20_Java_Img09_Libraries1.png’
+
+     0K .......... .......... .......... .......... .......... 1.64M
+    50K .......... .......... .......... .......... .......... 1.04M
+   100K .......... .......... .......... ........              1.57M=0.1s
+
+2014-11-19 20:19:37 (1.34 MB/s) - ‘docs/_images/Appendix_Sel20_Java_Img09_Libraries1.png’ saved [142125]
+
+--2014-11-19 20:19:37--  http://www.seleniumhq.org/docs/_images/Appendix_Sel20_Java_Img10_Libraries2.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/Appendix_Sel20_Java_Img10_Libraries2.png’
+
+     0K .......... .......... .......... .......... .......... 1.05M
+    50K .......... .......... .......... .......... ..........  522K
+   100K .......... .......... .......... ......                1.12M=0.2s
+
+2014-11-19 20:19:37 (784 KB/s) - ‘docs/_images/Appendix_Sel20_Java_Img10_Libraries2.png’ saved [140108]
+
+--2014-11-19 20:19:37--  http://www.seleniumhq.org/docs/_images/Appendix_Sel20_Java_Img11_CreateModuleSelectProject.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/Appendix_Sel20_Java_Img11_CreateModuleSelectProject.png’
+
+     0K .......... .......... .......... .......... .......... 1.08M
+    50K .......... .......... .......... .......... .......... 1.01M
+   100K .......... .......... .......... .......... .........  1.63M=0.1s
+
+2014-11-19 20:19:38 (1.19 MB/s) - ‘docs/_images/Appendix_Sel20_Java_Img11_CreateModuleSelectProject.png’ saved [153014]
+
+--2014-11-19 20:19:38--  http://www.seleniumhq.org/docs/_images/Appendix_Sel20_Java_Img12_SelectCreateModule.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/Appendix_Sel20_Java_Img12_SelectCreateModule.png’
+
+     0K ........                                               6.45M=0.001s
+
+2014-11-19 20:19:38 (6.45 MB/s) - ‘docs/_images/Appendix_Sel20_Java_Img12_SelectCreateModule.png’ saved [9124]
+
+--2014-11-19 20:19:38--  http://www.seleniumhq.org/docs/_images/Appendix_Sel20_Java_Img13_CreateModuleFromScratch.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/Appendix_Sel20_Java_Img13_CreateModuleFromScratch.png’
+
+     0K .......... .......... .......... .......... .......... 1.05M
+    50K .......... .......... .........                         920K=0.08s
+
+2014-11-19 20:19:38 (1011 KB/s) - ‘docs/_images/Appendix_Sel20_Java_Img13_CreateModuleFromScratch.png’ saved [81666]
+
+--2014-11-19 20:19:38--  http://www.seleniumhq.org/docs/_images/Appendix_Sel20_Java_Img14_JavaModuleAndModuleName.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/Appendix_Sel20_Java_Img14_JavaModuleAndModuleName.png’
+
+     0K .......... .......... .......... .......... .......... 1.05M
+    50K .......... .......... .......... .......... ....        961K=0.09s
+
+2014-11-19 20:19:38 (1017 KB/s) - ‘docs/_images/Appendix_Sel20_Java_Img14_JavaModuleAndModuleName.png’ saved [96710]
+
+--2014-11-19 20:19:38--  http://www.seleniumhq.org/docs/_images/Appendix_Sel20_Java_Img15_CreateSrcFolder.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/Appendix_Sel20_Java_Img15_CreateSrcFolder.png’
+
+     0K .......... .......... .......... .......... .......... 1.18M
+    50K .......... .......... .......... .......... .......... 1.10M
+   100K .......... .......... ........                         1.54M=0.1s
+
+2014-11-19 20:19:39 (1.21 MB/s) - ‘docs/_images/Appendix_Sel20_Java_Img15_CreateSrcFolder.png’ saved [131320]
+
+--2014-11-19 20:19:39--  http://www.seleniumhq.org/docs/_images/Appendix_Sel20_Java_Img16_SelectTechnologiesNoGroovy.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/Appendix_Sel20_Java_Img16_SelectTechnologiesNoGroovy.png’
+
+     0K .......... .......... .......... .......... .......... 1.11M
+    50K .......... .......... .......... .......... .......... 1.10M
+   100K .......... ...                                         3.47M=0.09s
+
+2014-11-19 20:19:39 (1.20 MB/s) - ‘docs/_images/Appendix_Sel20_Java_Img16_SelectTechnologiesNoGroovy.png’ saved [116183]
+
+--2014-11-19 20:19:39--  http://www.seleniumhq.org/docs/_images/Appendix_Sel20_Java_Img17_ModuleCreated.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/Appendix_Sel20_Java_Img17_ModuleCreated.png’
+
+     0K .......... .......... .......... .......... .......... 1.10M
+    50K .......... .......... .......... .......... ..........  944K
+   100K .......... .......... .......... .......... ......     2.42M=0.1s
+
+2014-11-19 20:19:39 (1.23 MB/s) - ‘docs/_images/Appendix_Sel20_Java_Img17_ModuleCreated.png’ saved [150184]
+
+--2014-11-19 20:19:39--  http://www.seleniumhq.org/docs/_images/Appendix_Sel20_Java_Img18_SelectCreateJavaClass.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/Appendix_Sel20_Java_Img18_SelectCreateJavaClass.png’
+
+     0K .......... .......... ...                              5.41M=0.004s
+
+2014-11-19 20:19:39 (5.41 MB/s) - ‘docs/_images/Appendix_Sel20_Java_Img18_SelectCreateJavaClass.png’ saved [23582]
+
+--2014-11-19 20:19:39--  http://www.seleniumhq.org/docs/_images/Appendix_Sel20_Java_Img19_EnterJavaClassName.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/Appendix_Sel20_Java_Img19_EnterJavaClassName.png’
+
+     0K .......... .......... .......... .                     7.79M=0.004s
+
+2014-11-19 20:19:40 (7.79 MB/s) - ‘docs/_images/Appendix_Sel20_Java_Img19_EnterJavaClassName.png’ saved [32510]
+
+--2014-11-19 20:19:40--  http://www.seleniumhq.org/docs/_images/Appendix_Sel20_Java_Img20_JavaClassCreated.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/Appendix_Sel20_Java_Img20_JavaClassCreated.png’
+
+     0K .......... .......... .......... .......... .......... 1.12M
+    50K .......... .......... .......... .......... ..........  962K
+   100K .......... .......... .......... .......... .......... 1.59M
+   150K .......... .......... .........                        1.45M=0.1s
+
+2014-11-19 20:19:40 (1.20 MB/s) - ‘docs/_images/Appendix_Sel20_Java_Img20_JavaClassCreated.png’ saved [183351]
+
+--2014-11-19 20:19:40--  http://www.seleniumhq.org/docs/_images/chapt5_img03_Launch_Eclipse.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_img03_Launch_Eclipse.png’
+
+     0K .......... .......... ....                             82.8M=0s
+
+2014-11-19 20:19:40 (82.8 MB/s) - ‘docs/_images/chapt5_img03_Launch_Eclipse.png’ saved [25400]
+
+--2014-11-19 20:19:40--  http://www.seleniumhq.org/docs/_images/chapt5_img04_Create_Java_Project.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_img04_Create_Java_Project.png’
+
+     0K .......... .......... .........                        1015K=0.03s
+
+2014-11-19 20:19:40 (1015 KB/s) - ‘docs/_images/chapt5_img04_Create_Java_Project.png’ saved [30477]
+
+--2014-11-19 20:19:40--  http://www.seleniumhq.org/docs/_images/chapt5_img05_Create_Java_Project.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_img05_Create_Java_Project.png’
+
+     0K .......... .......... .......... ...                   1.30M=0.03s
+
+2014-11-19 20:19:41 (1.30 MB/s) - ‘docs/_images/chapt5_img05_Create_Java_Project.png’ saved [34371]
+
+--2014-11-19 20:19:41--  http://www.seleniumhq.org/docs/_images/chapt5_img06_Create_Java_Project.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_img06_Create_Java_Project.png’
+
+     0K .......... ...                                         1.48M=0.009s
+
+2014-11-19 20:19:41 (1.48 MB/s) - ‘docs/_images/chapt5_img06_Create_Java_Project.png’ saved [13645]
+
+--2014-11-19 20:19:41--  http://www.seleniumhq.org/docs/_images/chapt5_img07_Create_Java_Project.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_img07_Create_Java_Project.png’
+
+     0K .......... .......... .......... ......                1.12M=0.03s
+
+2014-11-19 20:19:41 (1.12 MB/s) - ‘docs/_images/chapt5_img07_Create_Java_Project.png’ saved [37262]
+
+--2014-11-19 20:19:41--  http://www.seleniumhq.org/docs/_images/chapt5_img08_Package_Explorer.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_img08_Package_Explorer.png’
+
+     0K .......... ........                                    3.43M=0.005s
+
+2014-11-19 20:19:42 (3.43 MB/s) - ‘docs/_images/chapt5_img08_Package_Explorer.png’ saved [19020]
+
+--2014-11-19 20:19:42--  http://www.seleniumhq.org/docs/_images/chapt5_img09_Create_Com_Package.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_img09_Create_Com_Package.png’
+
+     0K .......... .......... ....                             7.33M=0.003s
+
+2014-11-19 20:19:42 (7.33 MB/s) - ‘docs/_images/chapt5_img09_Create_Com_Package.png’ saved [24791]
+
+--2014-11-19 20:19:42--  http://www.seleniumhq.org/docs/_images/chapt5_img10_Create_Com_Package.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_img10_Create_Com_Package.png’
+
+     0K .......... ........                                    71.7M=0s
+
+2014-11-19 20:19:42 (71.7 MB/s) - ‘docs/_images/chapt5_img10_Create_Com_Package.png’ saved [18903]
+
+--2014-11-19 20:19:42--  http://www.seleniumhq.org/docs/_images/chapt5_img11_Create_Core_Package.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_img11_Create_Core_Package.png’
+
+     0K .......... ........                                    2.50M=0.007s
+
+2014-11-19 20:19:42 (2.50 MB/s) - ‘docs/_images/chapt5_img11_Create_Core_Package.png’ saved [19346]
+
+--2014-11-19 20:19:42--  http://www.seleniumhq.org/docs/_images/chapt5_img12_Create_Test_Script_Package.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_img12_Create_Test_Script_Package.png’
+
+     0K .......... .........                                   92.5M=0s
+
+2014-11-19 20:19:43 (92.5 MB/s) - ‘docs/_images/chapt5_img12_Create_Test_Script_Package.png’ saved [20001]
+
+--2014-11-19 20:19:43--  http://www.seleniumhq.org/docs/_images/chapt5_img13_Create_Library_Package.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_img13_Create_Library_Package.png’
+
+     0K .......... .......... .                                 371K=0.06s
+
+2014-11-19 20:19:43 (371 KB/s) - ‘docs/_images/chapt5_img13_Create_Library_Package.png’ saved [22256]
+
+--2014-11-19 20:19:43--  http://www.seleniumhq.org/docs/_images/chapt5_img14_Create_Library_Package.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_img14_Create_Library_Package.png’
+
+     0K .......... .........                                    795K=0.02s
+
+2014-11-19 20:19:43 (795 KB/s) - ‘docs/_images/chapt5_img14_Create_Library_Package.png’ saved [19885]
+
+--2014-11-19 20:19:43--  http://www.seleniumhq.org/docs/_images/chapt5_img15_Configure_Build_Path.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_img15_Configure_Build_Path.png’
+
+     0K .......... .......... .........                        1.14M=0.03s
+
+2014-11-19 20:19:43 (1.14 MB/s) - ‘docs/_images/chapt5_img15_Configure_Build_Path.png’ saved [30305]
+
+--2014-11-19 20:19:43--  http://www.seleniumhq.org/docs/_images/chapt5_img16_Configure_Build_Path.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_img16_Configure_Build_Path.png’
+
+     0K .......... .......... .......... .......... .......    1020K=0.05s
+
+2014-11-19 20:19:44 (1020 KB/s) - ‘docs/_images/chapt5_img16_Configure_Build_Path.png’ saved [48983]
+
+--2014-11-19 20:19:44--  http://www.seleniumhq.org/docs/_images/chapt5_img17_Configure_Build_Path.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_img17_Configure_Build_Path.png’
+
+     0K .......... .......... .......... ..........             731K=0.06s
+
+2014-11-19 20:19:44 (731 KB/s) - ‘docs/_images/chapt5_img17_Configure_Build_Path.png’ saved [41341]
+
+--2014-11-19 20:19:44--  http://www.seleniumhq.org/docs/_images/chapt5_img18_Configure_Build_Path.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_img18_Configure_Build_Path.png’
+
+     0K .......... .......... ..                               1.38M=0.02s
+
+2014-11-19 20:19:44 (1.38 MB/s) - ‘docs/_images/chapt5_img18_Configure_Build_Path.png’ saved [22782]
+
+--2014-11-19 20:19:44--  http://www.seleniumhq.org/docs/_images/chapt5_img19_Python_Install.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_img19_Python_Install.png’
+
+     0K .......... .......... .......... ...                   1.05M=0.03s
+
+2014-11-19 20:19:44 (1.05 MB/s) - ‘docs/_images/chapt5_img19_Python_Install.png’ saved [33986]
+
+--2014-11-19 20:19:44--  http://www.seleniumhq.org/docs/_images/chapt5_img22_Python_Install.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_img22_Python_Install.png’
+
+     0K .......... .....                                       4.82M=0.003s
+
+2014-11-19 20:19:44 (4.82 MB/s) - ‘docs/_images/chapt5_img22_Python_Install.png’ saved [15449]
+
+--2014-11-19 20:19:44--  http://www.seleniumhq.org/docs/_images/chapt5_img19_Python_Mac_Install.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_img19_Python_Mac_Install.png’
+
+     0K .......... .......... .......... .......... ..........  789K
+    50K .......... .......... .......... .......... ..........  587K
+   100K .......... .......... .......... .......... ..          973K=0.2s
+
+2014-11-19 20:19:45 (741 KB/s) - ‘docs/_images/chapt5_img19_Python_Mac_Install.png’ saved [145741]
+
+--2014-11-19 20:19:45--  http://www.seleniumhq.org/docs/_images/chapt5_img25_Python_Driver_Install.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_img25_Python_Driver_Install.png’
+
+     0K .......... .......... .......... .......... ....        819K=0.05s
+
+2014-11-19 20:19:45 (819 KB/s) - ‘docs/_images/chapt5_img25_Python_Driver_Install.png’ saved [45487]
+
+--2014-11-19 20:19:45--  http://www.seleniumhq.org/docs/cn/_static/code-snipplets.js
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+2014-11-19 20:19:45 ERROR 404: Not Found.
+
+--2014-11-19 20:19:45--  http://www.seleniumhq.org/docs/cn/_static/jquery.scrollTo-1.4.2-min.js
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+2014-11-19 20:19:45 ERROR 404: Not Found.
+
+--2014-11-19 20:19:45--  http://www.seleniumhq.org/docs/cn/_static/jquery.localscroll-1.2.7-min.js
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+2014-11-19 20:19:46 ERROR 404: Not Found.
+
+--2014-11-19 20:19:46--  http://www.seleniumhq.org/docs/cn/_static/jquery.treeview.pack.js
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+2014-11-19 20:19:46 ERROR 404: Not Found.
+
+--2014-11-19 20:19:46--  http://www.seleniumhq.org/docs/cn/%5C%22%22
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+2014-11-19 20:19:46 ERROR 404: Not Found.
+
+--2014-11-19 20:19:46--  http://www.seleniumhq.org/docs/_images/chapt5_img01_Architecture_Diagram_Simple1.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_img01_Architecture_Diagram_Simple1.png’
+
+     0K .......... .......... .......... .......... ..........  487K
+    50K ...                                                    1.94M=0.1s
+
+2014-11-19 20:19:46 (511 KB/s) - ‘docs/_images/chapt5_img01_Architecture_Diagram_Simple1.png’ saved [54620]
+
+--2014-11-19 20:19:46--  http://www.seleniumhq.org/docs/_images/chapt5_TestNGxsltReport1.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_TestNGxsltReport1.png’
+
+     0K .......... .......... .......... ...                    877K=0.04s
+
+2014-11-19 20:19:48 (877 KB/s) - ‘docs/_images/chapt5_TestNGxsltReport1.png’ saved [33869]
+
+--2014-11-19 20:19:48--  http://www.seleniumhq.org/docs/_images/chapt5_img02_Architecture_Diagram_11.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_img02_Architecture_Diagram_11.png’
+
+     0K .......... .......... .......... .......... ..........  772K
+    50K .......... .......... .......... ..                    1.08M=0.09s
+
+2014-11-19 20:19:48 (875 KB/s) - ‘docs/_images/chapt5_img02_Architecture_Diagram_11.png’ saved [84219]
+
+--2014-11-19 20:19:48--  http://www.seleniumhq.org/docs/_images/chapt5_img02_Architecture_Diagram_21.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘docs/_images/chapt5_img02_Architecture_Diagram_21.png’
+
+     0K .......... .......... .......... .......... ..........  600K
+    50K .......... .......... ..........                        634K=0.1s
+
+2014-11-19 20:19:49 (612 KB/s) - ‘docs/_images/chapt5_img02_Architecture_Diagram_21.png’ saved [82108]
+
+--2014-11-19 20:19:49--  http://www.seleniumhq.org/docs/cn/cn/images/chapt5_img26_single_window_mode.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+2014-11-19 20:19:49 ERROR 404: Not Found.
+
+--2014-11-19 20:19:49--  http://www.seleniumhq.org/docs/cn/cn/images/chapt5_img27_multi_window_mode.png
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+2014-11-19 20:19:49 ERROR 404: Not Found.
+
+--2014-11-19 20:19:49--  http://www.seleniumhq.org/docs/cn/PersonalizingtheFirefoxProfileusedinthetests
+Reusing existing connection to www.seleniumhq.org:80.
+HTTP request sent, awaiting response... 404 Not Found
+2014-11-19 20:19:49 ERROR 404: Not Found.
+
+FINISHED --2014-11-19 20:19:49--
+Total wall clock time: 1m 0s
+Downloaded: 117 files, 5.5M in 5.9s (952 KB/s)

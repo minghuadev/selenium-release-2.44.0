@@ -1,0 +1,6 @@
+
+wget -r -np -nH -o docs-download-log http://www.seleniumhq.org/docs/index.jsp
+
+
+then remove the cn/ directory.
+
