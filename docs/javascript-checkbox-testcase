@@ -1,0 +1,38 @@
+
+case 1
+============
+
+html snippet:
+
+<form>
+  <input id="text1" name="text1" type="text" /> <br />
+  <input id="check1" name="check1" type="checkbox" /> <br />
+  <input id="check2" name="check2" type="checkbox" value="true" /> <br />
+</form>
+
+
+test case snippet:
+
+<tr>
+	<td>storeEval</td>
+	<td>var v=0; if (window.document.getElementById('check1').checked) v=1; v;</td>
+	<td>check1value</td>
+</tr>
+<tr>
+	<td>echo</td>
+	<td>${check1value}</td>
+	<td></td>
+</tr>
+
+
+result: when checked echo 1, or else 0
+
+
+case 2
+============
+
+	<td>window.document.getElementById('check1').checked;</td>
+
+echo true when checked and false when not checked
+
+
